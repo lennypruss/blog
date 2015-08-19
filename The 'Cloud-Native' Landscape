@@ -1,0 +1,25 @@
+<p>Over the last
+several years, we&rsquo;ve seen the emergence new application architecture &ndash; dubbed
+&ldquo;cloud native&rdquo; &ndash; that is highly distributed, elastic and composable with the
+container as the modular compute abstraction. With that, a new breed of tools
+has emerged to help deploy, manage and scale these applications. Cluster
+management, service discovery, scheduling, etc. &ndash; terms that previously were
+unfamiliar or, at best, reserved for the realm of high-performance computing &ndash; are
+now becoming part of every IT organization&rsquo;s lexicon. As the pace of innovation
+continues at breakneck speed, a taxonomy to help understand the elements of
+this new stack is helpful.</p><p>The &ldquo;Cloud-Native&rdquo;
+Ecosystem presentation is the consequence of many conversations with
+developers, CIOs and founders who are playing a critical role in shaping this
+new application paradigm. It attempts to define the discreet components of the
+cloud-native stack and calls out the vendors, products and projects that
+comprise the ecosystem.</p><p>
+
+Note, this is an
+ever-evolving document that&rsquo;s meant to be collaborative and is by no means a
+hardened or exhaustive industry landscape. If you have suggestions, edits
+and/or know of products or companies that should be included please don&rsquo;t
+hesitate to get in touch.
+</p>
+
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CVVMleJLOfwYwg" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lennypruss/cloudnative-ecosystem-aug-2015-51774381" title="'Cloud-Native' Ecosystem - Aug 2015" target="_blank"> </a></strong></div>
